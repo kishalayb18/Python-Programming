@@ -1,7 +1,10 @@
 #Q8
 f=-1
 r=-1
-
+# hi
+"""
+print("hi this is print")
+"""
 def insQ(x):
     queue=x
     max=8
